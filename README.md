@@ -8,3 +8,10 @@ Features
 	•	🔍 Detect anomalies using Isolation Forest
 	•	📊 Interactive visualization with Streamlit
 	•	🗺️ Supports multiple behavior indicators (login time, downloads, location, access type)
+
+⚙️ Tech Stack
+
+	•	Python
+	•	Pandas, Scikit-learn
+	•	Streamlit
+	•	Matplotlib / Seaborn
